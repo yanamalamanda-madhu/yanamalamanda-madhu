@@ -52,3 +52,12 @@ Project Overview :
 > - Got Merit Certificate in District Level Science Exhibition, chittoor in 2014.
 > - Got National Means-Cum-Merit Scholarship (NMMS), State Education Board, AP in 2014.
 </br>
+
+## <div align="center"> LANGUAGES </div>
+
+| Language Name | Read | Write | Speak | Proficiency |
+|---------------|------|-------|-------|-------------|
+| Telugu |Yes|Yes|Yes|Advanced|
+|English| Yes|Yes|Yes|Proficient|
+|Tamil|No|No|Yes|Beginner|
+</br>
