@@ -26,24 +26,16 @@ Project Overview :
 > - Utilized Matplotlib, a powerful data visualization library in Python, to create dynamic and customizable graphs showcasing key health metrics.
 > - Prioritized user experience by providing clear labels, titles, and legends on the graphs, making them easy to understand and interpret.
 
-### Projects using IntelliJ IDEA & Java Language 
-Title : <b>Scientific Calculator </b></br>
-Project Overview : 
-> - Designed and implemented an intuitive user interface (UI) to input mathematical expressions.
-> - Integrated a wide range of mathematical functions, including trigonometric, logarithmic, exponential functions.
-> - Implemented a history feature to store and recall previous calculations, enhancing user convenience.</br>
-</br>
+### Other Projects 
 
-Title : <b>Notepad</b></br>
+
+Title : <b>Text_Editor</b></br>
 Project Overview :
 > - Designed and implemented a user-friendly graphical interface using GUI framework.
 > - Implemented robust file handling mechanisms to ensure seamless document management, allowing users to create, edit, and save text files effortlessly.</br>
 </br>
 
-Title : <b>Alarm_Remainder</b></br>
-Project Overview :
-> - Created a user-friendly interface that allowed users to set, modify, and delete alarms and reminders with ease.</br>
-</br>
+
 
 ## <div align="center"> ACHIEVEMENTS </div>
 > - Recieved Prathibha award from AP state government in 2017.
