@@ -60,6 +60,8 @@ E-Mail: yanamalamandamadhu4@gmail.com</br>
 Linkedin : https://www.linkedin.com/in/yanamalamanda-madhu-5321a6254</br>
 GitHub : https://github.com/yanamalamanda-madhu</br>
 Hacker Rank : https://www.hackerrank.com/profile/yanamalamandama2 </br>
+CodeChef : https://www.codechef.com/users/madhuy </br>
+LeetCode : https://leetcode.com/u/yanamalamanda_madhu/ </br>
 </br>
 
 ## <div align="center"> Open to Networking </div>
